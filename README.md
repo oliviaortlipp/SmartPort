@@ -1,7 +1,5 @@
 # SmartPort
 
-Here's something about my project --> description about what my project is
-
 SmartPort is a physical computing prototype designed to help travellers stay on top of their boarding times. 
 Built using an Arduino Pro Mini, a DS1307 real-time clock, and an OLED display, the device shows a live countdown to boarding, a real-time clock, and visual alerts for “Boarding Soon” and “Boarding Now.” 
 The prototype includes three main display screens - Date, Boarding Soon, and Boarding Now - each tailored to show relevant countdown information. 
